@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Transforming Ideas into Reality with Cutting-Edge Solutions",
+        "title": "Unlock the Future of Innovation"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Transforming Ideas into Reality with Cutting-Edge Solutions",
+        "title": "Unlock the Future of Innovation"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Transforming Ideas into Reality with Cutting-Edge Solutions",
+        "title": "Unlock the Future of Innovation"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Transforming Ideas into Reality with Cutting-Edge Solutions",
+        "title": "Unlock the Future of Innovation"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Transforming Ideas into Reality with Cutting-Edge Solutions",
+        "title": "Unlock the Future of Innovation"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Transforming Ideas into Reality with Cutting-Edge Solutions",
+        "title": "Unlock the Future of Innovation"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Transforming Ideas into Reality with Cutting-Edge Solutions",
+        "title": "Unlock the Future of Innovation"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Transforming Ideas into Reality with Cutting-Edge Solutions",
+        "title": "Unlock the Future of Innovation"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unlock the Future of Innovation",
+  "subtitle": "Transforming Ideas into Reality with Cutting-Edge Solutions"
+}
